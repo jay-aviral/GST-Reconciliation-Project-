@@ -2,7 +2,7 @@
 
 Python project that reconciles a Tally-style **purchase register** against **GSTR-2B** and finds Input Tax Credit (ITC) at risk.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.jpj)
 
 ## Problem Statement
 A business can claim ITC only on purchase invoices that appear in its GSTR-2B. Manual matching of thousands of invoices is slow and error-prone. This project automates the matching, classifies every invoice, and ranks the suppliers who put the ITC at risk.
